@@ -2,6 +2,8 @@
 
 #--NAO KIBA CARALHOKKKKKK--#
 
+import os, time
+
 verm = '\033[1;91m'
 ama = '\033[1;93m'
 verd = '\033[1;92m'
@@ -55,5 +57,5 @@ while True:
         print('Resposta da Conta:',Divid)
 
     else: print('Resposta Iválida')
-
+    time.sleep(1)
 #--NAO KIBA $ 'spawnDEV'--#
