@@ -2,7 +2,7 @@
 
 #--NAO KIBA CARALHOKKKKKK--#
 
-import os, time
+import time
 
 verm = '\033[1;91m'
 ama = '\033[1;93m'
